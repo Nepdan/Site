@@ -1,7 +1,19 @@
-ul {
+li {
+	font-size: 20px;
 	display: inline;
+	border-bottom: 2px solid black;
+}
+
+.logo {
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+
+ul {
+
 }
 
 h1 {
-	color: red;
+	color: blue;
 }
