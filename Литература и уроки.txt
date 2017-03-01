@@ -1,0 +1,9 @@
+Что нужно знать
+HTML5, CSS3, PHP, JS + JQuery, MySQL
+
+
+	Back-end
+PHP5 в подлиннике издание второе
+
+	Front-end
+HTML, CSS, JS + JQuery Уроки Евгения Попова
